@@ -1,0 +1,426 @@
+# Uzbek translation of xfce4-whiskermenu-plugin.
+# Copyright (C) 2015 Graeme Gott
+# This file is distributed under the same license as the xfce4-whiskermenu-plugin package.
+#
+# Translators:
+# Umid Almasov <u.almasov@gmail.com>, 2013-2014
+# Umid Almasov <u.almasov@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: Whisker Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-13 22:55+0000\n"
+"PO-Revision-Date: 2014-08-18 12:06+0000\n"
+"Last-Translator: Umid Almasov <u.almasov@gmail.com>\n"
+"Language-Team: Uzbek (http://www.transifex.com/projects/p/xfce4-whiskermenu-"
+"plugin/language/uz/)\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../panel-plugin/configuration-dialog.cpp:816
+msgid "Add action"
+msgstr "Harakatni qo'shish"
+
+#: ../panel-plugin/page.cpp:257
+msgid "Add to Desktop"
+msgstr "Ishchi stolga qo'shish"
+
+#: ../panel-plugin/page.cpp:241
+msgid "Add to Favorites"
+msgstr "Tanlanganlarga qo'shish"
+
+#: ../panel-plugin/page.cpp:261
+msgid "Add to Panel"
+msgstr "Panelga qo'shish"
+
+#: ../panel-plugin/category.cpp:61
+msgid "All"
+msgstr "Hammasi"
+
+#: ../panel-plugin/settings.cpp:119
+msgid "All _Settings"
+msgstr "Hamma _sozlamalar"
+
+#: ../panel-plugin/plugin.cpp:411
+msgid "Alternate application launcher for Xfce"
+msgstr "Xfce uchun muqobil dasturlarni ishga tushiruvchi"
+
+#: ../panel-plugin/configuration-dialog.cpp:717
+msgid "Amount of _items:"
+msgstr ""
+
+#: ../panel-plugin/plugin.cpp:243
+#, fuzzy
+msgid "Applications"
+msgstr "Dasturlar menyusi"
+
+#: ../panel-plugin/configuration-dialog.cpp:652
+msgid "Background opacit_y:"
+msgstr ""
+
+#: ../panel-plugin/command-edit.cpp:49
+msgid "Browse the file system to choose a custom command."
+msgstr "Ixtiyoriy buyruqni tanlash uchun fayl tizimini ko'rib chiqish."
+
+#: ../panel-plugin/configuration-dialog.cpp:874
+msgid "C_ommand:"
+msgstr "_Buyruq:"
+
+#: ../panel-plugin/configuration-dialog.cpp:637
+msgid "Categ_ory icon size:"
+msgstr "_Toifa nishonchasinig o'lchami:"
+
+#: ../panel-plugin/recent-page.cpp:173
+msgid "Clear Recently Used"
+msgstr "Yaqinda foydalanilganlarni tozalash"
+
+#: ../panel-plugin/plugin.cpp:412
+msgid "Copyright © 2013-2017 Graeme Gott"
+msgstr "Copyright © 2013-2017 Graeme Gott"
+
+#: ../panel-plugin/configuration-dialog.cpp:844
+msgid "Details"
+msgstr "Tafsilotlar"
+
+#: ../panel-plugin/configuration-dialog.cpp:533
+msgid "Di_splay:"
+msgstr "_Ko'rsatish:"
+
+#: ../panel-plugin/configuration-dialog.cpp:734
+#, fuzzy
+msgid "Display by _default"
+msgstr "Yaqinda _foydalanilganlarni sukut bo'yicha ko'rsatish"
+
+#: ../panel-plugin/page.cpp:268
+#, fuzzy
+msgid "Edit Application..."
+msgstr "Dasturlarni _tahrirlash"
+
+#: ../panel-plugin/settings.cpp:124
+msgid "Edit _Profile"
+msgstr ""
+
+#: ../panel-plugin/settings.cpp:124
+#, fuzzy
+msgid "Failed to edit profile."
+msgstr "Foydalanuvchilarni almashtirish muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/launcher.cpp:288 ../panel-plugin/launcher.cpp:361
+#: ../panel-plugin/run-action.cpp:41 ../panel-plugin/search-action.cpp:188
+#, c-format
+msgid "Failed to execute command \"%s\"."
+msgstr "\"%s\" buyrug'ini bajarish muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/settings.cpp:123
+msgid "Failed to launch menu editor."
+msgstr "Menyu tahrirchisini ishga tushirish muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/settings.cpp:120
+msgid "Failed to lock screen."
+msgstr "Ekranni qulflash muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/settings.cpp:122
+msgid "Failed to log out."
+msgstr "Tizimdan chiqish muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/settings.cpp:119
+msgid "Failed to open settings manager."
+msgstr "Moslamalar boshqaruvchisini ochish muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/settings.cpp:121
+msgid "Failed to switch users."
+msgstr "Foydalanuvchilarni almashtirish muvaffaqiyatsiz tugadi."
+
+#: ../panel-plugin/window.cpp:161
+msgid "Favorites"
+msgstr "Tanlanganlar"
+
+#: ../panel-plugin/configuration-dialog.cpp:538
+msgid "Icon"
+msgstr "Nishoncha"
+
+#: ../panel-plugin/configuration-dialog.cpp:540
+msgid "Icon and title"
+msgstr "Nishoncha va sarlavha"
+
+#: ../panel-plugin/configuration-dialog.cpp:728
+#, fuzzy
+msgid "Ignore _favorites"
+msgstr "Tanlanganlar"
+
+#: ../panel-plugin/configuration-dialog.cpp:621
+msgid "Ite_m icon size:"
+msgstr "_Band nishonchasining o'lchami:"
+
+#: ../panel-plugin/icon-size.cpp:54
+msgid "Large"
+msgstr "Katta"
+
+#: ../panel-plugin/icon-size.cpp:55
+msgid "Larger"
+msgstr "Kattaroq"
+
+#: ../panel-plugin/settings.cpp:122
+msgid "Log _Out"
+msgstr "Tizimdan _chiqish"
+
+#: ../panel-plugin/settings.cpp:126
+msgid "Man Pages"
+msgstr "Qo'llanma sahifalari"
+
+#: ../panel-plugin/configuration-dialog.cpp:586
+#: ../panel-plugin/configuration-dialog.cpp:677
+msgid "Menu"
+msgstr "Menyu"
+
+#: ../panel-plugin/configuration-dialog.cpp:849
+msgid "Nam_e:"
+msgstr "_Nomi:"
+
+#: ../panel-plugin/configuration-dialog.cpp:794
+msgid "Name"
+msgstr "Nomi"
+
+#: ../panel-plugin/icon-size.cpp:49
+msgid "None"
+msgstr "Yo'q"
+
+#: ../panel-plugin/icon-size.cpp:53
+msgid "Normal"
+msgstr "Oddiy"
+
+#: ../panel-plugin/settings.cpp:130
+msgid "Open URI"
+msgstr "URI ochish"
+
+#: ../panel-plugin/configuration-dialog.cpp:528
+msgid "Panel Button"
+msgstr "Panel tugmasi"
+
+#: ../panel-plugin/configuration-dialog.cpp:799
+msgid "Pattern"
+msgstr "Andaza"
+
+#: ../panel-plugin/configuration-dialog.cpp:688
+msgid "Position _search entry next to panel button"
+msgstr "_Qidirish elementini panel tugmasidan keyin joylashtirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:701
+msgid "Position cate_gories next to panel button"
+msgstr "_Turkumlarni panel tugmasidan keyin joylashtirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:694
+msgid "Position commands next to search _entry"
+msgstr "_Buyruqlarni qidirish elementidan keyin joylashtirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:712 ../panel-plugin/window.cpp:167
+msgid "Recently Used"
+msgstr "Yaqinda foydalanilganlar"
+
+#: ../panel-plugin/page.cpp:249
+msgid "Remove From Favorites"
+msgstr "Tanlanganlardan olib tashlash"
+
+#: ../panel-plugin/configuration-dialog.cpp:432
+#, c-format
+msgid "Remove action \"%s\"?"
+msgstr "\"%s\" harakati olib tashlansinmi?"
+
+#: ../panel-plugin/configuration-dialog.cpp:825
+msgid "Remove selected action"
+msgstr "Tanlangan harakatni olib tashlash"
+
+#: ../panel-plugin/run-action.cpp:71
+#, c-format
+msgid "Run %s"
+msgstr "%s ishga tushirish"
+
+#: ../panel-plugin/settings.cpp:129
+msgid "Run in Terminal"
+msgstr "Terminalda ishga tushirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:86
+msgid "Search Actio_ns"
+msgstr "_Harakatlarni qidirish"
+
+#: ../panel-plugin/search-action.cpp:259
+msgid "Search Action"
+msgstr "Harakatni qidirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:119
+msgid "Select An Icon"
+msgstr "Nishonchani tanlash"
+
+#: ../panel-plugin/command-edit.cpp:64
+msgid "Select Command"
+msgstr "Buyruqni tanlash"
+
+#: ../panel-plugin/whiskermenu.desktop.in.h:2
+msgid "Show a menu to easily access installed applications"
+msgstr "O'rnatilgan dasturlardan erkin foydalanish uchun menyu ko'rsatish"
+
+#: ../panel-plugin/configuration-dialog.cpp:603
+msgid "Show application _descriptions"
+msgstr "Dastur _ta'riflarini ko'rsatish"
+
+#: ../panel-plugin/configuration-dialog.cpp:609
+#, fuzzy
+msgid "Show application too_ltips"
+msgstr "Dastur _ta'riflarini ko'rsatish"
+
+#: ../panel-plugin/configuration-dialog.cpp:597
+msgid "Show cate_gory names"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:591
+msgid "Show generic application _names"
+msgstr "Dasturlarning umumiy _nomlarini ko'rsatish"
+
+#: ../panel-plugin/configuration-dialog.cpp:615
+msgid "Show menu hie_rarchy"
+msgstr "Menyu _iyerarxiyasini ko'rsatish"
+
+#: ../panel-plugin/icon-size.cpp:52
+msgid "Small"
+msgstr "Kichik"
+
+#: ../panel-plugin/icon-size.cpp:51
+msgid "Smaller"
+msgstr "Kichikroq"
+
+#: ../panel-plugin/favorites-page.cpp:147
+msgid "Sort Alphabetically A-Z"
+msgstr "Alifbo bo'yicha saralash A-Z"
+
+#: ../panel-plugin/favorites-page.cpp:153
+msgid "Sort Alphabetically Z-A"
+msgstr "Alifbo bo'yicha saralash Z-A"
+
+#: ../panel-plugin/settings.cpp:121
+msgid "Switch _Users"
+msgstr "_Foydalanuvchilarni almashtirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:682
+msgid "Switch categories by _hovering"
+msgstr "Toifalarni sichqoncha ustiga borganda o'zgartirish"
+
+#: ../panel-plugin/configuration-dialog.cpp:431
+msgid "The action will be deleted permanently."
+msgstr "Harakat butunlay o'chiriladi."
+
+#: ../panel-plugin/configuration-dialog.cpp:539
+msgid "Title"
+msgstr "Sarlavha"
+
+#: ../panel-plugin/page.cpp:372
+msgid "Unable to add launcher to desktop."
+msgstr "Ishga tushiruvchini ishchi stolga qo'shib bo'lmadi."
+
+#: ../panel-plugin/page.cpp:411 ../panel-plugin/page.cpp:420
+msgid "Unable to add launcher to panel."
+msgstr "Ishga tushiruvchini panelga qo'shib bo'lmadi."
+
+#: ../panel-plugin/page.cpp:447
+#, fuzzy
+msgid "Unable to edit launcher."
+msgstr "Ishga tushiruvchini panelga qo'shib bo'lmadi."
+
+#: ../panel-plugin/configuration-dialog.cpp:492
+#, c-format
+msgid "Unable to open the following url: %s"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:573
+#, fuzzy
+msgid "Use a single _panel row"
+msgstr "Ikonchani bir _panelli qatorga joylashtirish"
+
+#: ../panel-plugin/icon-size.cpp:56
+msgid "Very Large"
+msgstr "Juda katta"
+
+#: ../panel-plugin/icon-size.cpp:50
+msgid "Very Small"
+msgstr "Juda kichik"
+
+#: ../panel-plugin/settings.cpp:127
+msgid "Web Search"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:70
+#: ../panel-plugin/whiskermenu.desktop.in.h:1
+msgid "Whisker Menu"
+msgstr "Whisker menyusi"
+
+#: ../panel-plugin/settings.cpp:128
+msgid "Wikipedia"
+msgstr "Vikipedia"
+
+#: ../panel-plugin/configuration-dialog.cpp:83
+msgid "_Appearance"
+msgstr "_Ko'rinish"
+
+#: ../panel-plugin/configuration-dialog.cpp:84
+msgid "_Behavior"
+msgstr "_Xulqi"
+
+#: ../panel-plugin/command-edit.cpp:67
+#: ../panel-plugin/configuration-dialog.cpp:121
+msgid "_Cancel"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:74
+msgid "_Close"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:85
+#, fuzzy
+msgid "_Commands"
+msgstr "Buyruqlar"
+
+#: ../panel-plugin/configuration-dialog.cpp:430
+msgid "_Delete"
+msgstr ""
+
+#: ../panel-plugin/settings.cpp:123
+msgid "_Edit Applications"
+msgstr "Dasturlarni _tahrirlash"
+
+#: ../panel-plugin/configuration-dialog.cpp:73
+msgid "_Help"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:559
+msgid "_Icon:"
+msgstr "_Nishoncha:"
+
+#: ../panel-plugin/settings.cpp:120
+msgid "_Lock Screen"
+msgstr "Ekranni _bloklash"
+
+#: ../panel-plugin/command-edit.cpp:68
+#: ../panel-plugin/configuration-dialog.cpp:122
+msgid "_OK"
+msgstr ""
+
+#: ../panel-plugin/configuration-dialog.cpp:862
+msgid "_Pattern:"
+msgstr "_Andaza:"
+
+#: ../panel-plugin/configuration-dialog.cpp:886
+msgid "_Regular expression"
+msgstr "_Oddiy ifodalar"
+
+#: ../panel-plugin/configuration-dialog.cpp:548
+msgid "_Title:"
+msgstr "_Sarlavha"
+
+#: ../panel-plugin/plugin.cpp:416
+msgid "translator-credits"
+msgstr "Umid Almasov <u.almasov@gmail.com>, 2014"
+
+#~ msgid "Include _favorites in recently used"
+#~ msgstr "_Tanlanganlarni yaqinda foydalanilganlarga qo'shish"
