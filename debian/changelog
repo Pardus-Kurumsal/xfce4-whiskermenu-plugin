@@ -1,3 +1,9 @@
+xfce4-whiskermenu-plugin (2.1.1-1pardus1) onyedi; urgency=medium
+
+  * Pardus CI implementation
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 08 Nov 2017 11:02:11 +0300
+
 xfce4-whiskermenu-plugin (2.1.1-1) experimental; urgency=medium
 
   [ Mateusz Łukasik ]
